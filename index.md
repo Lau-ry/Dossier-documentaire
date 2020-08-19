@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+**Accueil**
 
-You can use the [editor on GitHub](https://github.com/Lau-ry/Dossier-documentaire/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenue dans cet espace documentaire, dedié au Bluethood. Ici, vous trouverez des informations concernant la naissance, l'utilité, le fonctionnement et l'évolution de cette technologie, afin de pouvoir mieux la comprendre.  Une table des matières sera disposée ci-dessous et séquencera les informations, de manière à ce que votre lecture soit structurée et facilitera la  compréhension du sujet.  Il vous suffira de cliquer sur  les titres  numérotés en tables des matières, pour accéder aux liens des sites Web danslequels j'ai trouvé les informations nécessaires, à la réalistion de ce dossier documentaire.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
