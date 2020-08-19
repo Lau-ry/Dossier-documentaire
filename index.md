@@ -1,7 +1,6 @@
 **Accueil**
 
-Bienvenue dans cet espace documentaire, dedié au Bluethood. Ici, vous trouverez des informations concernant la naissance, l'utilité, le fonctionnement et l'évolution de cette technologie, afin de pouvoir mieux la comprendre.  Une table des matières sera disposée ci-dessous et séquencera les informations, de manière à ce que votre lecture soit structurée et facilitera la  compréhension du sujet.  Il vous suffira de cliquer sur  les titres  numérotés en tables des matières, pour accéder aux liens des sites Web danslequels j'ai trouvé les informations nécessaires, à la réalistion de ce dossier documentaire.
-
+Bienvenue dans cet espace documentaire, dedié au Bluethood. Ici, vous trouverez des informations concernant la naissance, l'utilité, le fonctionnement et l'évolution de cette technologie, afin de pouvoir mieux la comprendre.  Une table des matières sera disposée ci-dessous et séquencera les informations, de manière à ce que votre lecture soit structurée et facilitera la  compréhension du sujet.  Il vous suffira de cliquer sur  les titres  numérotés en tables des matières, pour accéder aux liens des sites Web , danslequels, j'ai trouvé les informations nécessra à la réalistion de ce dossier documentaire.
 
 ```markdown
 Syntax highlighted code block
